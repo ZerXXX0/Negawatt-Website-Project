@@ -1,0 +1,800 @@
+.desktop {
+  background-color: #010922;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #010922;
+  overflow-x: hidden;
+  width: 1440px;
+  height: 3963px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1647px;
+  height: 1324px;
+  top: -454px;
+  left: 188px;
+}
+
+.desktop .ellipse {
+  top: 703px;
+  left: 1054px;
+  background-color: #88d0d1;
+  position: absolute;
+  width: 593px;
+  height: 593px;
+  border-radius: 296.5px;
+  filter: blur(242px);
+}
+
+.desktop .ellipse-2 {
+  top: 0;
+  left: 47px;
+  background-color: #88a5d1;
+  position: absolute;
+  width: 593px;
+  height: 593px;
+  border-radius: 296.5px;
+  filter: blur(242px);
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 1075px;
+  height: 40px;
+  top: 512px;
+  left: 0;
+}
+
+.desktop .text-wrapper {
+  top: 0;
+  left: 0;
+  font-family: "Karantina-Bold", Helvetica;
+  font-size: 40px;
+  position: absolute;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+  top: 1px;
+  left: 536px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 28px;
+  position: absolute;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  top: 1px;
+  left: 657px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 28px;
+  position: absolute;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 1px;
+  left: 797px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 1px;
+  left: 946px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .hero {
+  position: absolute;
+  width: 1067px;
+  height: 596px;
+  top: 559px;
+  left: 0;
+}
+
+.desktop .object-other {
+  position: absolute;
+  width: 588px;
+  height: 596px;
+  top: 0;
+  left: 471px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 588px;
+  height: 596px;
+  top: 0;
+  left: 29px;
+  object-fit: cover;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 192px;
+  height: 46px;
+  top: 429px;
+  left: 0;
+  background-color: #8080d7;
+  border-radius: 30px;
+}
+
+.desktop .buy-nfts {
+  position: absolute;
+  width: 83px;
+  top: 9px;
+  left: 55px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .sell-nfts-wrapper {
+  position: absolute;
+  width: 192px;
+  height: 46px;
+  top: 429px;
+  left: 243px;
+  border-radius: 30px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.desktop .sell-nfts {
+  position: absolute;
+  width: 89px;
+  top: 8px;
+  left: 51px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.desktop .discover-and-collect {
+  position: absolute;
+  width: 450px;
+  top: 120px;
+  left: 0;
+  font-family: "Outfit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 55.5px;
+}
+
+.desktop .the-most-secure {
+  position: absolute;
+  width: 373px;
+  top: 324px;
+  left: 0;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 1067px;
+  height: 166px;
+  top: 1158px;
+  left: 0;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  width: 1065px;
+  height: 166px;
+}
+
+.desktop .featured-on {
+  position: absolute;
+  width: 117px;
+  top: 0;
+  left: 5px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .group {
+  position: absolute;
+  width: 1065px;
+  height: 152px;
+  top: 14px;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  height: 127px;
+  top: 25px;
+  border-radius: 19px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 1065px;
+  height: 127px;
+  top: 0;
+  left: 0;
+  background-color: #8d8dda;
+  border-radius: 19px;
+  opacity: 0.22;
+}
+
+.desktop .image {
+  width: 144px;
+  height: 23px;
+  top: 53px;
+  left: 373px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-2 {
+  width: 162px;
+  height: 60px;
+  top: 34px;
+  left: 32px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-3 {
+  width: 59px;
+  height: 31px;
+  top: 49px;
+  left: 696px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-4 {
+  width: 98px;
+  height: 25px;
+  top: 52px;
+  left: 934px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .content {
+  position: absolute;
+  width: 1089px;
+  height: 1488px;
+  top: 903px;
+  left: 188px;
+}
+
+.desktop .view-our-pricing-wrapper {
+  position: absolute;
+  width: 215px;
+  height: 46px;
+  top: 322px;
+  left: 540px;
+  background-color: #8080d7;
+  border-radius: 30px;
+}
+
+.desktop .view-our-pricing {
+  position: absolute;
+  width: 160px;
+  top: 9px;
+  left: 28px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .download-on-ios-wrapper {
+  position: absolute;
+  width: 218px;
+  height: 49px;
+  top: 834px;
+  left: -1px;
+  border-radius: 30px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.desktop .download-on-ios {
+  position: absolute;
+  width: 162px;
+  top: 7px;
+  left: 27px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .get-started-wrapper {
+  position: absolute;
+  width: 215px;
+  height: 46px;
+  top: 1379px;
+  left: 546px;
+  background-color: #8080d7;
+  border-radius: 30px;
+}
+
+.desktop .get-started {
+  position: absolute;
+  width: 112px;
+  top: 9px;
+  left: 52px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .built-in-analytics {
+  position: absolute;
+  width: 450px;
+  top: 78px;
+  left: 540px;
+  font-family: "Outfit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 55.5px;
+}
+
+.desktop .browse-nfts-from {
+  position: absolute;
+  width: 450px;
+  top: 592px;
+  left: 0;
+  font-family: "Outfit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 55.5px;
+}
+
+.desktop .sell-your-nfts-from {
+  position: absolute;
+  width: 519px;
+  top: 1135px;
+  left: 546px;
+  font-family: "Outfit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 55.5px;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 492px;
+  top: 206px;
+  left: 540px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 492px;
+  top: 720px;
+  left: 0;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 492px;
+  top: 1263px;
+  left: 546px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 104px;
+  top: 34px;
+  left: 540px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.desktop .get-our-app {
+  position: absolute;
+  width: 125px;
+  top: 548px;
+  left: 0;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.desktop .element-access {
+  position: absolute;
+  width: 122px;
+  top: 1091px;
+  left: 546px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.desktop .object-other-2 {
+  position: absolute;
+  width: 473px;
+  height: 412px;
+  top: 0;
+  left: 7px;
+  background-image: url(./img/other-18.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .object-other-3 {
+  position: absolute;
+  width: 496px;
+  height: 471px;
+  top: 467px;
+  left: 546px;
+  background-image: url(./img/other-17.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .object-other-4 {
+  position: absolute;
+  width: 451px;
+  height: 451px;
+  top: 1037px;
+  left: 0;
+  background-image: url(./img/other-12.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .sub-footer {
+  position: absolute;
+  width: 1071px;
+  height: 344px;
+  top: 3229px;
+  left: 188px;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 1065px;
+  height: 344px;
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgb(103.97, 103.97, 218.88) 0%, rgb(0, 40.8, 255) 100%);
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 215px;
+  height: 46px;
+  top: 253px;
+  left: 425px;
+  background-color: #000000;
+  border-radius: 30px;
+}
+
+.desktop .get-started-2 {
+  position: absolute;
+  width: 112px;
+  top: 9px;
+  left: 51px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #ffffff;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.desktop .be-a-part-of-the {
+  position: absolute;
+  width: 409px;
+  top: 102px;
+  left: 328px;
+  font-family: "Outfit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 55.5px;
+}
+
+.desktop .are-you-ready {
+  position: absolute;
+  top: 62px;
+  left: 454px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.desktop .testimonial {
+  position: absolute;
+  width: 1069px;
+  height: 575px;
+  top: 2559px;
+  left: 184px;
+}
+
+.desktop .footer {
+  position: absolute;
+  width: 1460px;
+  height: 222px;
+  top: 3741px;
+  left: 0;
+  background-color: transparent;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 347px;
+  height: 47px;
+  top: 47px;
+  left: 908px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 345px;
+  height: 46px;
+  top: 0;
+  left: 0;
+  background-color: #6d6d6d38;
+  border-radius: 30px;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 103px;
+  height: 46px;
+  top: 1px;
+  left: 244px;
+  background-color: #8080d7;
+  border-radius: 30px;
+}
+
+.desktop .submit {
+  position: absolute;
+  top: 14px;
+  left: 266px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 113px;
+  top: 8px;
+  left: 18px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff61;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 31px;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 0;
+  left: 188px;
+  font-family: "Karantina-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .join-our-newsletter {
+  position: absolute;
+  width: 293px;
+  top: 1px;
+  left: 911px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .home-about-buy-nfts {
+  position: absolute;
+  width: 69px;
+  top: 47px;
+  left: 399px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 31px;
+}
+
+.desktop .browse-nfts-buy-nfts {
+  position: absolute;
+  width: 97px;
+  top: 47px;
+  left: 544px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 31px;
+}
+
+.desktop .email-linkedin {
+  position: absolute;
+  width: 74px;
+  top: 47px;
+  left: 702px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 31px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  width: 113px;
+  top: 8px;
+  left: 399px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 123px;
+  top: 8px;
+  left: 544px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .contact {
+  position: absolute;
+  width: 128px;
+  top: 8px;
+  left: 702px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 17px;
+  top: 205px;
+  left: 0;
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgb(103.97, 103.97, 218.88) 0%, rgb(0, 40.8, 255) 100%);
+}
